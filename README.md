@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning design patterns for OOP and Embedded Linux
 - 💞️ I’m looking to collaborate on implementing standard protocols for industrial devices.
 - 📫 Feel free to contact me at mojtaba.zamani.65@gmail.com :handshake:
-- :atom: [My LinkedIn](https://www.linkedin.com/in/mojtaba-zamani-0008a938/)
+- :atom: [My LinkedIn](https://www.linkedin.com/in/mojtaba-zamani/)
 
 <!---
 mojtabamza/mojtabamza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
